@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Gadarwara",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-07T11:25:23.110Z",
+      "notes": "someone",
+      "position": {
+        "lat": "22.755920681486405",
+        "lng": "78.75000000000001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Novaya Chara",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-10-07T11:27:10.143Z",
+      "notes": "something",
+      "position": {
+        "lat": "56.17002298293205",
+        "lng": "117.42187500000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Bassillac et Auberoche",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-15T17:04:59.264Z",
+      "notes": "dwdjwodow",
+      "position": {
+        "lat": "45.13573390566304",
+        "lng": "0.8349327007091346"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Rio Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-10-15T17:12:11.080Z",
+      "notes": "dwdwidiwdw",
+      "position": {
+        "lat": "39.30291476187093",
+        "lng": "-8.876852457051264"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Nandy",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-15T17:12:22.096Z",
+      "notes": "ndiwwdiwdw",
+      "position": {
+        "lat": "48.57857375646324",
+        "lng": "2.5486624792863344"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Vang",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2023-10-15T17:13:07.277Z",
+      "notes": "dnjwkndkwd",
+      "position": {
+        "lat": "61.05969464334291",
+        "lng": "8.613190813237283"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Petajavesi",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2023-10-15T17:13:14.700Z",
+      "notes": "dwkbdkwbdkw",
+      "position": {
+        "lat": "62.35374443682874",
+        "lng": "25.40014977033539"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Anorbe",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-15T18:02:47.861Z",
+      "notes": "djwdbwjdbjw",
+      "position": {
+        "lat": "42.63494479644364",
+        "lng": "-1.7577891824132588"
+      },
+      "id": 98443208
+    }
+  ]
+}
